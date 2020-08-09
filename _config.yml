@@ -6,18 +6,18 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "dark" 
 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quantum Information, Optimal Control and Machine Learning"
+title                    : "Priya Batra"
 title_separator          : "-"
 name                     : &name "Priya Batra"
 description              : &description ""
-url                      : https://96ya.github.io/priyabtr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://96ya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/priyabtr" # the subpath of your site, e.g. "/blog"
 repository               : "96ya/priyabtr"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -88,10 +88,10 @@ author:
   name             : "Priya Batra"
   avatar           : "profile.png"
   bio              : "PhD Student at IISER Pune
-                                         Prime Minister Research Fellow"
-  location         : "IISER Pune"
+                                     Prime Minister Research Fellow"
+  location         : Pune, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "priya.batra@students.iiserpune.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
