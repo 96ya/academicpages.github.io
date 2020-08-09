@@ -8,12 +8,10 @@ date: 2018-08-01
 location: "Pune, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Heading 1
 ======
-Course: World of Physics
-Instructor: Sudharshan Ananth
+* Course: World of Physics
+* Instructor: Sudharshan Ananth
 
 Heading 2
 ======
