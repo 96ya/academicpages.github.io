@@ -1,11 +1,16 @@
 ---
-title: "Push-pull optimization of quantum controls"
+title: "Experimental localisation of quantum entanglement through monitored classical mediator"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Optimization of quantum controls to achieve a target process is centered around an objective function comparing the realized process with the target. We propose an objective function that incorporates not only the target operator but also a set of its orthogonal operators whose combined influence leads to an efficient exploration of the parameter space, faster convergence, and extraction of superior solutions. The push-pull optimization, as we call it, can be adopted in various quantum control scenarios. We describe adopting it for gradient based and variational-principle based approaches. Numerical analysis of quantum registers with up to seven qubits reveals significant benefits of the push-pull optimization. We describe applying the push-pull optimization to prepare a long-lived singlet order in a two-qubit system using NMR techniques.'
-date: 2020-03-13
-venue: 'Physical Review Research'
-paperurl: 'https://link.aps.org/doi/10.1103/PhysRevResearch.2.013314'
-citation: 'Batra, Priya, V. R. Krithika, and T. S. Mahesh. "Push-pull optimization of quantum controls." Physical Review Research 2.1 (2020): 013314.'
+excerpt: 'Quantum  entanglement  is  a  form  of  correlation  between  quantum  particles  that  cannot  be  in-creased via local operations and classical communication.  It has therefore been proposed that anincrement of quantum entanglement between probes that are interacting solely via a mediator im-plies non-classicality of the mediator.  Indeed, under certain assumptions regarding the initial state,entanglement gain between the probes indicates quantum coherence in the mediator.  Going beyondsuch assumptions, there exist other initial states which produce entanglement between the probesvia only local interactions with a classical mediator.  In this process the initial entanglement be-tween any probe and the rest of the system “flows through” the classical mediator and gets localisedbetween the probes.  Here we theoretically characterise maximal entanglement gain via classical me-diator and experimentally demonstrate, using liquid-state NMR spectroscopy, the optimal growthof quantum correlations between two nuclear spin qubits interacting through a mediator qubit ina  classical  state.   We  additionally  monitor,  i.e.,  dephase,  the  mediator  in  order  to  emphasise  itsclassical character.  Our results indicate the necessity of verifying features of the initial state if en-tanglement gain between the probes is used as a figure of merit for witnessing non-classical mediator.Such methods were proposed to have exemplary applications in quantum optomechanics, quantumbiology and quantum gravity.'
+date: 2019-09-24
+venue: 'Arxiv'
+paperurl: 'https://arxiv.org/pdf/1909.11030.pdf'
+citation: 'Pal, Soham, et al. "Experimental localisation of quantum entanglement through monitored classical mediator." arXiv preprint arXiv:1909.11030 (2019).'
 ---
+This paper is about the number 2. The number 3 is left for future work.
+
+[Download paper here](https://arxiv.org/pdf/1909.11030.pdf)
+
+Recommended citation: Pal, Soham, et al. "Experimental localisation of quantum entanglement through monitored classical mediator." arXiv preprint arXiv:1909.11030 (2019).
 
