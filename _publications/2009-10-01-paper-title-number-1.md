@@ -8,9 +8,7 @@ venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/1909.11030.pdf'
 citation: 'Pal, Soham, et al. "Experimental localisation of quantum entanglement through monitored classical mediator." arXiv preprint arXiv:1909.11030 (2019).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The paper can be found [here](https://arxiv.org/pdf/1909.11030.pdf)
 
-[Download paper here](https://arxiv.org/pdf/1909.11030.pdf)
 
-Recommended citation: Pal, Soham, et al. "Experimental localisation of quantum entanglement through monitored classical mediator." arXiv preprint arXiv:1909.11030 (2019).
 
