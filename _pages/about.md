@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Quantum Information, Quantum Optimal Control and Machine Learning"
-excerpt: "About 
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
