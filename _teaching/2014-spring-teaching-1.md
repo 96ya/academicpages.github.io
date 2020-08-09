@@ -8,9 +8,9 @@ date: 2018-08-01
 location: "Pune, India"
 ---
 
-Heading 1
+Details of course
 ======
-* Course: World of Physics
+* Course name : World of Physics
 * Instructor: Sudharshan Ananth
 
 Heading 2
