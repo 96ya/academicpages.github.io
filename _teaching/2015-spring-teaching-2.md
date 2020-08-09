@@ -1,17 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant 2"
 collection: teaching
-type: "Workshop"
+type: "Undergrad Lab"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "IISER Pune, Department of physics"
+date: 2019-01-01
+location: "Pune, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Details of course
 ======
+Course name: Modern Physics experimenal lab
+Instructor: Umakant D. Rapol
 
 Heading 2
 ======
