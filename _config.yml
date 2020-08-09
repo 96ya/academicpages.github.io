@@ -87,10 +87,10 @@ analytics:
 author:
   name             : "Priya Batra"
   avatar           : "profile.png"
-  bio              : "PhD Student at IISER Pune
+  bio              : "PhD Student at Department of Physics, IISER Pune <a style='color: black;' href='http://www.iiserpune.ac.in/'></a>"
                                      Prime Minister Research Fellow"
   location         : Pune, India"
-  employer         :
+  employer         : 
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "priya.batra@students.iiserpune.ac.in"
