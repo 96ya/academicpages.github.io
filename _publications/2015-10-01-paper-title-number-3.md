@@ -9,6 +9,5 @@ paperurl: 'https://arxiv.org/pdf/2005.10555.pdf'
 citation: 'Batra, Priya, Anukriti Singh, and T. S. Mahesh. "Characterizing Quantum Evolutions via a Recommender System." arXiv preprint arXiv:2005.10555 (2020).'
 ---
 
-[Download paper here](https://arxiv.org/pdf/2005.10555.pdf)
+The paper can be foud [here](https://arxiv.org/pdf/2005.10555.pdf)
 
-Recommended citation:Batra, Priya, Anukriti Singh, and T. S. Mahesh. "Characterizing Quantum Evolutions via a Recommender System." arXiv preprint arXiv:2005.10555 (2020).
