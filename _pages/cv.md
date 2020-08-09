@@ -20,7 +20,12 @@ Work experience
   * Rajasthan University Jaipur 
   * Project in Solar Physics
   * Supervisor: Sunita Mahavar
-  
+
+* Fall 2016-Spring 2018: MS Project
+ * IISER Pune
+ * Biophysics
+ * Supervisor: Shiv Prasad Patil
+ 
 Skills
 =====
 * Computer Skills
@@ -28,6 +33,14 @@ Skills
   * Python
   * Origin Lab
   * Github
+  
+Awards and fellowships
+======
+Prime Minister Research Fellowship May 2019 
+CSIR JRF JUNE 2018 (Rank 127)
+Inspire fellow in BSc
+IIT-JAM 2016 (Rank 139)
+JEST 2016 (Rank 72)
 
 Publications
 ======
