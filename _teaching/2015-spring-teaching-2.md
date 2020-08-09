@@ -10,11 +10,7 @@ location: "Pune, India"
 
 Details of course
 ======
-Course name: Modern Physics experimenal lab
-Instructor: Umakant D. Rapol
+* Course name: Modern Physics experimenal lab
+* Instructor: Umakant D. Rapol
 
-Heading 2
-======
 
-Heading 3
-======
