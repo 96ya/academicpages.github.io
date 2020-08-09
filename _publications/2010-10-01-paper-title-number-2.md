@@ -12,6 +12,6 @@ citation: 'Batra, Priya, V. R. Krithika, and T. S. Mahesh. "Push-pull optimizati
 
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](https://arxiv.org/pdf/1909.11030.pdf)
+[Download paper here](https://link.aps.org/doi/10.1103/PhysRevResearch.2.013314)
 
 Recommended citation: Pal, Soham, et al. "Experimental localisation of quantum entanglement through monitored classical mediator." arXiv preprint arXiv:1909.11030 (2019).
