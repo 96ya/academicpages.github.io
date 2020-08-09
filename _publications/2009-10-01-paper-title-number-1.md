@@ -6,22 +6,8 @@ excerpt: 'Optimization of quantum controls to achieve a target process is center
 date: 2009-10-01
 venue: 'Physical Review Research'
 paperurl: 'https://link.aps.org/doi/10.1103/PhysRevResearch.2.013314'
-citation: '@article{PhysRevResearch.2.013314,
-  title = {Push-pull optimization of quantum controls},
-  author = {Batra, Priya and Krithika, V. R. and Mahesh, T. S.},
-  journal = {Phys. Rev. Research},
-  volume = {2},
-  issue = {1},
-  pages = {013314},
-  numpages = {7},
-  year = {2020},
-  month = {Mar},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevResearch.2.013314},
-  url = {https://link.aps.org/doi/10.1103/PhysRevResearch.2.013314}
-}
-'
----
+
+
 
 [Download paper here](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.013314)
 
