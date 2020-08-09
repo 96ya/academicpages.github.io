@@ -15,10 +15,10 @@ locale                   : "en-US"
 title                    : "Quantum Information, Optimal Control and Machine Learning"
 title_separator          : "-"
 name                     : &name "Priya Batra"
-description              : &description "I'm a PhD student working on Quantum Information and Machine Learning.  "
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ""
+url                      : https://96ya.github.io/priyabtr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "96ya/priyabtr"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,14 +85,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Priya Batra"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Student at IISER Pune
+                                         Prime Minister Research Fellow"
+  location         : "IISER Pune"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "priya.batra@students.iiserpune.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,7 +102,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "96ya"
   google_plus      :
   keybase          :
   instagram        :
