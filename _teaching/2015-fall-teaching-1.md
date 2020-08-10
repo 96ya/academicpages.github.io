@@ -13,8 +13,4 @@ Details of course
 * Course name: Classical Mechanics
 * Instructor: Deepak Dhar
 
-Heading 2
-======
 
-Heading 3
-======
