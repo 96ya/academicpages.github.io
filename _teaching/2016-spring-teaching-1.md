@@ -13,8 +13,4 @@ Details of course
 * Course name: Quantum Information
 * Instructor: Sachin Jain
 
-Heading 2
-======
 
-Heading 3
-======
