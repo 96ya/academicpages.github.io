@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /Machine Learning meets Quantum Physics/
 title: " Machine Learning meets Quantum Physics"
 author_profile: true
 redirect_from: 
