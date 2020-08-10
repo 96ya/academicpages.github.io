@@ -2,7 +2,7 @@
 title: "Experimental localisation of quantum entanglement through monitored classical mediator"
 collection: publications
 permalink: /2019-10-01_localisation
-excerpt: 'Experimental localisation of quantum entanglement through monitored classical mediator'
+excerpt: 'NMR implementation of localisation of quantum entanglement through monitored classical mediator'
 date: 2019-09-24
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/1909.11030'
