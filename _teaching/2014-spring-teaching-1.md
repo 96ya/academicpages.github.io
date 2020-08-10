@@ -13,8 +13,3 @@ Details of course
 * Course name : World of Physics
 * Instructor: Sudharshan Ananth
 
-Heading 2
-======
-
-Heading 3
-======
