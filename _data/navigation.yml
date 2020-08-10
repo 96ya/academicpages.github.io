@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Conferences"
+  - title: "Conferences and workshops"
     url: /talks/    
 
   - title: "Teaching"
@@ -13,7 +13,7 @@ main:
     url: /cv/
     
   - title: "Machine Learning meets Quantum Physics"
-    url: /markdown/
+    url: /Machine Learning meets Quantum Physics/
     
   - title: "Contact"
     url: /contact/
