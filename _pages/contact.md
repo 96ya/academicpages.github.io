@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: " Machine Learning meets Quantum Physics"
+title: "Contact"
 author_profile: true
 redirect_from: 
   - /md/
