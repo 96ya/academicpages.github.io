@@ -13,6 +13,7 @@ Pune, India 411008  <br>**
 
 * E-mail: priya.batra@students.iiserpune.ac.in
 * Google Scholar: [Author: Priya Batra](https://scholar.google.com/citations?user=gPGn_2UAAAAJ&hl=en&oi=ao)
+* Research Gate: [Author: Priya Batra](https://www.researchgate.net/profile/Priya_Batra2)
  
 
 
