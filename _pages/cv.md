@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+CV can be downloaded here[]
+
 Education
 ======
 * B.Sc in Physics, Rajasthan Univesity Jaipur, 2016
