@@ -127,6 +127,9 @@ include:
   - .htaccess
   - _pages
   - files
+  - "*.pdf"
+  - "papers/*.pdf"
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
