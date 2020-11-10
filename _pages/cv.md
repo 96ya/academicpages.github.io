@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-CV can be downloaded here[]
+<u><a style="line-height: 1.5;" href="http://www.stuartgeiger.com/geiger-cv.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
+
 
 Education
 ======
