@@ -59,14 +59,10 @@ Conferences and Workshops
   
 Teaching
 ======
-  ---
+---
 title: "Teaching Assistant 1"
-collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-08-01_Fall
-venue: "IISER Pune, Department of physics"
-date: 2018-08-01
-location: "Pune, India"
+venue: "Department of physics,IISER Pune,Pune"
 ---
 
 Details of course
