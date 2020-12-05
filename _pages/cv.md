@@ -53,9 +53,17 @@ Publications
   
 Conferences and Workshops
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ * Quantum Foundation, Technology and Application 2019
+   * Poster Presentation, IISER Mohali
+   
+ * Statistical Physics for Machine Learning 2020
+   * ICTS Bangalore
+  
+ * NMRS 2020
+   * Poster Presentation, Saurastra University, Rajkot
+   
+ * Young Quantum 2020
+   * Poster Presentation, HRI Allahabad
   
 Teaching
 ======
