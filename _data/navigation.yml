@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Conferences and workshops"
-    url: /talks/       
     
   - title: "CV"
     url: /cv/
