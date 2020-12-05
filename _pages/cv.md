@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<u><a style="line-height: 1.5;" href="http://96ya.github.io/priyabtr/resume_priya.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
+<u><a style="line-height: 1.5;" href="http://96ya.github.io/priyabtr/resume.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
 
 
 Education
