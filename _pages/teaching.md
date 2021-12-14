@@ -12,10 +12,10 @@ Teaching at Fergusson College Pune
   * Quantum Mechanics, PG Course (Jan 2021-April 2021)
 
 * Teaching 2:
-  * Atoms, Molecules and Solids, PG Course (june 2021-August 2021), Course Coordinator: Dr. Umakant Rapol
+  * Atoms, Molecules and Solids, PG Course (june 2021-August 2021)
 
 * Teaching 3:
-  * Solid State Physics, PG Course (November 2021-ongoing), Course Coordinator: Prof. Deepak Dhar
+  * Solid State Physics, PG Course (November 2021-ongoing)
 
 
 Teaching Assistant at IISER Pune
