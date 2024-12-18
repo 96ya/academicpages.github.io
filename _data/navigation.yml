@@ -6,11 +6,11 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Teaching"
-    url: /teaching/
+ # - title: "Teaching"
+ #   url: /teaching/
     
-  - title: "Machine Learning meets Quantum Physics"
-    url: /Machine Learning meets Quantum Physics/
+ # - title: "Machine Learning meets Quantum Physics"
+ #   url: /Machine Learning meets Quantum Physics/
     
   - title: "Contact"
     url: /contact/
